@@ -2,11 +2,6 @@
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
-
-## Documentation
-
-https://book.getfoundry.sh/
-
 ## Usage
 
 ### Build
